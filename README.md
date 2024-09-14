@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 
-  - [Building a SOC Homelab]
+  - <a href="https://github.com/rubentotterman/SOC_Homelab">[Building a SOC Homelab]</a>
 
 
 
