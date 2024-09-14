@@ -1,4 +1,4 @@
-<h1>Hey, I'm a <br/> aspiring <a href="https://www.linkedin.com/in/ruben-totterman/">Cybersecurity Professional</a></h1>
+<h1>Hey, I'm an <br/> aspiring <a href="https://www.linkedin.com/in/ruben-totterman/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
