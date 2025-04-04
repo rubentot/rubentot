@@ -8,6 +8,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rubentotterman/azure-network-protocols-)
 
 <h2>Certifications</h2>
+ - [Azure DP-900]
 
 
 
