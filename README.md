@@ -2,8 +2,13 @@ I'm a recent graduate in Information Technology, currently exploring the world o
 
 📍 Based in Norway | 🎓 DP-900 Certified | ☁️ Cloud Support Enthusiast
 
-
-
+### 🛠️ Skills & Technologies
+- Azure (VMs, NSG, VNet, Storage)
+- Wireshark & network analysis
+- Windows & Linux environments
+- Git, GitHub
+- PowerShell, CLI basics
+- SQL & data fundamentals
 
 <h1>👨‍💻 Information Technology Projects:</h1>
 
