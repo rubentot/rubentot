@@ -19,8 +19,8 @@ I'm a recent graduate in Information Technology, currently exploring the world o
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rubentotterman/on-prem-ad/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rubentotterman/azure-network)
 
-
-
+### 📜 Certifications
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 
 
