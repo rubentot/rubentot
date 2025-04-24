@@ -19,7 +19,7 @@ I'm a recent graduate in Information Technology, currently exploring the world o
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rubentotterman/on-prem-ad/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network](https://github.com/rubentotterman/azure-network)
 - <b>Computer Networking</b>
-  - [Configuring CISCO routers for IP Routing]((https://github.com/rubentotterman/ip-routing))
+  - [Configuring CISCO routers for IP Routing](https://github.com/rubentotterman/ip-routing)
   - [CISCO backup and recovery](https://github.com/rubentotterman/ciscorouter-backup-recovery)
 
 ### 📜 Certifications
