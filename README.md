@@ -15,6 +15,8 @@ I'm a recent graduate in Information Technology, currently exploring the world o
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rubentotterman/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/rubentotterman/post-install-config-/tree/main)
+- <b>AWS</b>
+  - [Deploying a Web Server on AWS EC2 with Terraform](https://github.com/rubentotterman/cloud-ec2-terraform-nginx/tree/main)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rubentotterman/on-prem-ad/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network](https://github.com/rubentotterman/azure-network)
