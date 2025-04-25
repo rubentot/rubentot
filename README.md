@@ -24,6 +24,10 @@ I'm a recent graduate in Information Technology, currently exploring the world o
   - [Configuring CISCO routers for static IP Routing](https://github.com/rubentotterman/ip-routing)
   - [CISCO backup and recovery](https://github.com/rubentotterman/ciscorouter-backup-recovery)
   - [Basic Troubleshooting](https://github.com/rubentotterman/basic-cisco-troubleshooting)
+
+
+Why I'm walking away from frontend development: 
+- [Frontend research paper](https://github.com/rubentotterman/Exam-Submission-for-PJ6100)
   
 
 
