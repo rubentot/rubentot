@@ -26,7 +26,7 @@ I'm a recent graduate in Information Technology, currently exploring the world o
   - [Basic Troubleshooting](https://github.com/rubentotterman/basic-cisco-troubleshooting)
 
 
-Why i decided not to pursue frontend development: [Frontend research paper](https://github.com/rubentotterman/Exam-Submission-for-PJ6100)
+[Frontend research paper](https://github.com/rubentotterman/Exam-Submission-for-PJ6100)
   
 
 
