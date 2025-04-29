@@ -34,7 +34,7 @@ I'm a recent graduate in Information Technology, currently exploring the world o
 
 ### 📜 Certifications
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
-- CCNA (In progress)
+- Cisco Certified Network Associate (CCNA)(In progress)
 
 
 
