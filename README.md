@@ -1,4 +1,4 @@
-I'm a recent graduate in Information Technology, currently exploring the world of cloud computing and DevOps. I'm passionate about learning cloud computing, networking, and hands-on cloud labs.
+BCs Information Technology, currently exploring the world of cloud computing and DevOps. I'm passionate about learning cloud computing, networking, and hands-on cloud labs.
 
 Based in Norway | DP-900 Certified | Cloud Enthusiast
 
@@ -32,7 +32,7 @@ Skills & Technologies
   
 
 
-### 📜 Certifications
+Certifications
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 - Cisco Certified Network Associate (CCNA)(In progress)
 
