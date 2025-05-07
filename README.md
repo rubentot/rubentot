@@ -10,7 +10,7 @@ Skills & Technologies
 - PowerShell, CLI basics
 - SQL & data fundamentals
 
-<h1>👨‍💻 Information Technology Projects:</h1>
+<h1> Information Technology Projects:</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rubentotterman/osTicket-Prerequisites-and-Installation)
