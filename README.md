@@ -1,4 +1,4 @@
-BCs Information Technology, currently exploring the world of cloud computing and DevOps. I'm passionate about learning cloud computing and cybersecurity.
+BCs Information Technology. Currently exploring the world of cloud computing and DevOps. I'm passionate about learning cloud computing and cybersecurity.
 
 Based in Norway | DP-900 Certified | Cloud Enthusiast
 
