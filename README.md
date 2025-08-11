@@ -1,6 +1,6 @@
-BCs Information Technology. Currently exploring the world of cloud computing. I'm passionate about learning cloud computing and system administration.
+BCs Information Technology. Currently exploring cloud computing.
 
-Based in Norway | DP-900 Certified | Cloud Enthusiast
+Based in Bangkok
 
 Skills & Technologies
 - Azure (VMs, NSG, VNet, Storage)
