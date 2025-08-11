@@ -2,14 +2,6 @@ BCs Information Technology. Currently exploring cloud computing.
 
 Based in Bangkok
 
-Skills & Technologies
-- Azure (VMs, NSG, VNet, Storage)
-- Wireshark & network analysis
-- Windows & Linux environments
-- Git, GitHub
-- PowerShell, CLI basics
-- SQL & data fundamentals
-
 <h1> Information Technology Projects:</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
