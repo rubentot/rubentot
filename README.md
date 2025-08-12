@@ -17,12 +17,3 @@
 
 
 [Frontend research paper](https://github.com/rubentotterman/Exam-Submission-for-PJ6100)
-  
-
-
-Certifications
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Cisco Certified Network Associate (CCNA)(In progress)
-
-
-
