@@ -1,7 +1,3 @@
-BCs Information Technology. Currently exploring cloud computing.
-
-Based in Bangkok
-
 <h1> Information Technology Projects:</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
