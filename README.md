@@ -7,7 +7,7 @@
   - [Cloud server hardening](https://github.com/rubentotterman/cloud-server-hardening.git)
   - [Setting up and securing a server on AWS](https://github.com/rubentotterman/aws_server.git)
   - [Deploying a Web Server on AWS EC2 with Terraform](https://github.com/rubentotterman/cloud-ec2-terraform-nginx/tree/main)
-- <b>Microsoft Azure</b>
+- <b>Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rubentotterman/on-prem-ad/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network](https://github.com/rubentotterman/azure-network)
 - <b>Computer Networking</b>
