@@ -14,6 +14,8 @@
   - [Configuring CISCO routers for static IP Routing](https://github.com/rubentotterman/ip-routing)
   - [CISCO backup and recovery](https://github.com/rubentotterman/ciscorouter-backup-recovery)
   - [Basic Troubleshooting](https://github.com/rubentotterman/basic-cisco-troubleshooting)
+  - [Dynamic Routing](https://github.com/rubentot/Dynamic-Routing-Protocols-Lab-Cisco-Packet-Tracer)
+  
 
 
 [Frontend research paper](https://github.com/rubentotterman/Exam-Submission-for-PJ6100)
