@@ -6,7 +6,7 @@
   - [Basic Troubleshooting](https://github.com/rubentotterman/basic-cisco-troubleshooting)
   - [Dynamic Routing](https://github.com/rubentot/Dynamic-Routing-Protocols-Lab-Cisco-Packet-Tracer)
   - [OSPF](https://github.com/rubentot/Cisco-OSPF-Configuration-Lab.git)
-  -  [VLAN](https://github.com/rubentot/VLAN.git)
+  -  [VLAN Projects](https://github.com/rubentot/VLAN.git)
 - <b>AWS</b>
   - [Cloud server hardening](https://github.com/rubentotterman/cloud-server-hardening.git)
   - [Setting up and securing a server on AWS](https://github.com/rubentotterman/aws_server.git)
