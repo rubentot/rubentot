@@ -14,9 +14,7 @@
 - <b>Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rubentotterman/on-prem-ad/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network](https://github.com/rubentotterman/azure-network)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/rubentotterman/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/rubentotterman/post-install-config-/tree/main)
+
 
   
 
