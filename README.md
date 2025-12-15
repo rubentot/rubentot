@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-- <b>Computer Networking</b>
+- <b>Networking</b>
   - [Configuring CISCO routers for static IP Routing](https://github.com/rubentotterman/ip-routing)
   - [CISCO backup and recovery](https://github.com/rubentotterman/ciscorouter-backup-recovery)
   - [Basic Troubleshooting](https://github.com/rubentotterman/basic-cisco-troubleshooting)
