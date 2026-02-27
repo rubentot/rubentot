@@ -1,7 +1,7 @@
 <h1>Projects</h1>
 
 - <b>Cybersecurity</b>
-  - [Mini projects](https://github.com/rubentot/cybersec-portfolio)
+  - [Pre-Masters preparation](https://github.com/rubentot/cybersec-portfolio)
 - <b>Networking</b>
   - [Static IP Routing](https://github.com/rubentotterman/ip-routing)
   - [CISCO backup and recovery](https://github.com/rubentotterman/ciscorouter-backup-recovery)
